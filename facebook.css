@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    height: 850px;
+    overflow-y: scroll;
+}   
+.main-body{
+    width: 100%;
+    background-color:#ddd;
+    height: 750px;
+    float: left;
+}
+.left-section{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    width: 41%;
+    height: 750px;
+    float: left;
+    padding-left: 134px;
+    
+}
+.right-section{
+    width: 50%;
+    height: 750px;
+    float: left;
+   
+}
+
+.image{
+    height: 116px;
+    margin: 124px;
+    margin-top: 179px;
+    margin-left: 14px;
+}
+.footer{
+    width: 1520px;
+    background-color: burlywood;
+    float: left;
+    height: 100px;
+}
+.para{
+    margin: 72px;
+    margin-top: -135px;
+    margin-left: 52px;
+}
+.login-side{
+    width: 432px;
+    height: 358px;
+    background-color: white;
+    margin-top: 163px;
+    margin-left: 104px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius: 8px;
+}
+.form-fount{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    width: 355px;
+    height: 50px;
+    margin-top: 18px;
+    margin-left: 21px;
+    border-radius: 8px;
+    border: 1px solid #dddfe2;
+    font-size: 17px;
+    padding-left: 32px;
+    outline-color: #7171d1;
+}
+.login{
+    width: 393px;
+    height: 50px;
+    margin-top: 18px;
+    margin-left: 21px;
+    border-radius: 8px;
+    border: #08007f;
+    font-size: 17px;
+    padding-left: 12px;
+    outline-color: #08007f;
+    color: white;
+    border-color: blue;
+    cursor: pointer ;
+    background-color: blue;
+}
+.login:hover{
+    
+    background-color: #08007f;
+    
+    
+}
+.forgotten{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    margin-left: 145px;
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+.forgotten:hover{
+    color: #7171d1;
+}
+#hr-edit{
+    width: 387px;
+}
+.creat-account{
+    width: 300px;
+    height: 50px;
+    margin-left: 66px;
+    border-radius: 9px;
+    text-decoration: none;
+    border-color: green;
+    font-size: 17px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    border: green;
+    background-color: green;
+    color: white;
+}
+#footer-font{
+    font-family: math;
+    padding-left: 72px;
+    font-size: 14px;
+}
